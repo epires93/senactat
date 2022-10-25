@@ -1,0 +1,35 @@
+#Desafio da Aula de hoje: 25/10/2022
+
+#OBSERVAÇÃO IMPORTANTE: CUIDADO VAI DE VAGAR, INSTALAR UM
+#SOFTWARE DE CADA VEZ, NÃO QUEIRA INSTALAR VÁRIOS AO MESMO
+#TEMPO POIS VAI TRAVAR A MÁQUINA VIRTUAL.
+
+#01_ Instalação dos Navegadores (Recomendo via Gdebi)
+	_a - Google Chrome;
+	_b - Opera;
+	_c - Microsoft Edge;
+	_d - Vivaldi;
+	_e - Tor;
+	_f - Brave.
+	
+#02_ Instalação do suporte ao TTF (TrueType Fonts)
+	a_ Ttf-mscorefonts (Gerenciador de Aplicativos)
+
+#03_ Instalação dos Pacote Office
+	_a - WPS Office for Linux (Recomendo via Gdebi)
+	_c - FreeOffice for Linux (Recomendo via Gdebi)
+	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem)
+	_e - Microsoft Teams for Linux (Recomendo via Gdebi)
+	_f - Skype for Linux (Recomendo via Gdebi)
+	_g - KolourPaint (Gerenciador de Aplicativo)
+
+#04_ Instalação dos Editores de Texto para Desenvolvimento
+	_a - Visual Studio Code for Linux (Recomendo via Gdebi)
+	_b - NotepadQQ for Linux (Gerenciador de Aplicativo)
+	_c - Atom for Linux (Recomendo via Gdebi)
+	_d - Sublime for Linux (Recomendo via Gdebi)
+	 
+#05_ Instalação de Reprodutores de Música Editor de Áudio e Vídeo
+	_a - VLC VideoOnLan for Linux (Gerenciador de Aplicativo)
+	_b - Audacity (Gerenciador de Aplicativo)
+	_c - Kdenlive (Recomendo AppImagem)
