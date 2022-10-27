@@ -30,23 +30,35 @@
 
 #03_ Instalação dos Pacote Office
 	_a - WPS Office for Linux (Recomendo via Gdebi)
-	Dowloand em andamento
+	Instalação Via Gerenciador de Aplicativos - ok
+	Criar atalho - ok
 	_c - FreeOffice for Linux (Recomendo via Gdebi)
-	
+	não abre
+
 	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem)
-	Dowloand em andamento
+	Dowloand - ok
+	instalação - pendente
+
 	_e - Microsoft Teams for Linux (Recomendo via Gdebi)
-	
+	Instalação Via Gerenciador de Aplicativos - ok
+	Criar atalho - ok
 	_f - Skype for Linux (Recomendo via Gdebi)
-	
+	Instalação Via Gerenciador de Aplicativos - ok
+	Criar atalho - ok
 	_g - KolourPaint (Gerenciador de Aplicativo)
-	
+	Instalação Via Gerenciador de Aplicativos - ok
+	Criar atalho - ok
 
 #04_ Instalação dos Editores de Texto para Desenvolvimento
 	_a - Visual Studio Code for Linux (Recomendo via Gdebi)
+	Dowloand Via navegador - ok
+	 Instalação - ok
+	 Criar atalho - ok
 	
 	_b - NotepadQQ for Linux (Gerenciador de Aplicativo)
-	
+	Instalação Via Gerenciador de Aplicativos - ok
+	Criar atalho - ok
+
 	_c - Atom for Linux (Recomendo via Gdebi)
 	
 	_d - Sublime for Linux (Recomendo via Gdebi)
