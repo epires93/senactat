@@ -39,7 +39,9 @@
 	 Criar atalho - ok
 	 
 	_c - FreeOffice for Linux (Recomendo via Gdebi)
-	 não abre
+	 Dowloand Via navegador - ok
+	 Instalação - ok
+	 Criar atalho - ok
 
 	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem)
 	 Dowloand Via navegador - ok
@@ -88,4 +90,8 @@
 	 Criar atalho - ok
 	 
 	_c - Kdenlive (Recomendo AppImagem)
-	 não abre
+	 Instalação Via Gerenciador de Aplicativos - ok
+	 Criar atalho - ok
+
+
+
