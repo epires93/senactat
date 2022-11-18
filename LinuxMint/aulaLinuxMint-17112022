@@ -1,0 +1,40 @@
+
+#Comando Mover (Renomear)
+mv -v ORIGEM DESTINO
+
+#Comando de Copiar
+cp -v ORIGEM DESTINO
+
+#Comando de Imprimir mensagem na Tela
+echo Senac Tatuapé
+echo Senac Tatuapé > SENAC.txt
+
+#Comando para listar o conteúdo do arquivo
+Cat -n SENAC.txt
+Cat -n /etc/ services
+
+#Comando para listar o conteúdo do arquivo, 
+#mas eu posso escolher as linhas.
+head /etc/ services
+tail /etc/ services
+
+head -n20/etc/ services
+tail -n20/etc/ services
+
+
+#DESAFIO DO PROF. RAMOS
+Cat -n /etc/services | head -n20
+
+
+LISTAR O CONTEUDO DO ARQUIVO EM:
+/ETC/ SERVICES DAS LINHAS: 100 ATÉ 200
+        1 ATÉ  99: EXCLUIR
+      100 ATÉ 200: MANTER (VISUALIZAR)
+      201 ATÉ 361: EXCLUIR
+
+
+Cat -n /etc/services | head -n200 | tail -n101
+
+
+
+
